@@ -1,0 +1,340 @@
+div.scrollmenu {
+    padding-top: -5px;
+    width: 100%;
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+    position: relative;
+    height: 175px;
+    
+  }
+  div.scrollmenu a {
+    display:flex;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    padding-top: -10px;
+  }
+  div.scrollmenu a:hover {
+    background-color: rgb(233, 227, 227);
+    border-radius: 10px;
+  }
+  .menu{
+      line-height: 40px;
+      display: flex;
+      
+  }
+  
+  .menu1{
+      display: flex;
+      margin-top: 5px;
+      
+  
+  }
+  
+  .ride{
+    position: absolute;
+    top: 50px;
+    z-index: 2;
+    color:#000;
+    left: 0px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  
+  }
+  
+  .car{
+    position: absolute;
+    top: 50px;
+    z-index: 2;
+    color: #000;
+    left: 70px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  
+    }
+  
+  .jasatitip{
+    position: absolute;
+    top: 50px;
+    z-index: 2;
+    color: #000;
+    left: 130px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  
+  }
+  
+  .send{
+    position: absolute;
+    top: 50px;
+    z-index: 2;
+    color: #000;
+    left: 200px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  
+  
+  }
+  
+  .travel{
+    position: absolute;
+    top: 50px;
+    z-index: 2;
+    color: #000;
+    left: 273px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  
+  
+  }
+  
+  .salon{
+    position: absolute;
+    top: 50px;
+    z-index: 2;
+    color: #000;
+    left: 335px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  
+  
+  }
+  
+  .food{
+    position: absolute;
+    top: 150px;
+    z-index: 2;
+    color: #000;
+    left: 0px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  
+  
+  }
+  
+  .mart{
+    position: absolute;
+    top: 150px;
+    z-index: 2;
+    color: #000;
+    left: 65px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  
+  
+  }
+  
+  .shop{
+    position: absolute;
+    top: 150px;
+    z-index: 2;
+    color: #000;
+    left: 130px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  
+  
+  }
+  .pharm{
+    position: absolute;
+    top: 150px;
+    z-index: 2;
+    color: #000;
+    left: 195px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  
+  
+  }
+  
+  .herbal{
+    position: absolute;
+    top: 150px;
+    z-index: 2;
+    color: #000;
+    left: 265px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  
+  
+  }
+  
+  .massage{
+    position: absolute;
+    top: 150px;
+    z-index: 2;
+    color: #000;
+    left:  335px;
+    font-size: 13px;
+    color: #00B0FF;
+    font-style: italic;
+    margin: 10px 5px 5px 5px;
+  }
+  .delicar{
+    width: 50px;
+    height: 50px;
+    transition: 1s; 
+  }
+  
+  .delicar:hover{
+    transform: rotate(360deg);
+  }
+  
+  .delicar:active{
+    transform: rotate(360deg);
+  }
+  
+  
+  
+  
+  .box1{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: white;
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 10px 10px;
+      
+  }
+  
+  .box2{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: white;
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 20px 20px;
+      
+  }
+  
+  .box3{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: white;
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 20px 20px;
+      
+  }
+  
+  .box4{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: white;
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 20px 20px;
+      
+  }
+  
+  .box5{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: white;
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 20px 20px;
+  }
+  
+  .box6{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: white;
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 20px 20px;
+  }
+  
+  .box7{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: white;
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 10px 10px;
+      
+  }
+  
+  .box8{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: white;
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 20px 20px;
+      
+  }
+  
+  .box9{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: white;
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 20px 20px;
+      
+  }
+  
+  .box10{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: white;
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 20px 20px;
+      
+  }
+  
+  .box11{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: white;
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 20px 20px;
+      
+  }
+  
+  .box12{
+      width: 100px;
+      height: 50px;
+      float: left;
+      background-color: rgb(255, 255, 255);
+      box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 10px;
+      margin: 10px 10px 20px 20px;
+  }

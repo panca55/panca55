@@ -1,0 +1,59 @@
+ .saldo {
+    z-index: 3;
+    margin-top: -20px;
+    background-color: #00B0Ff;
+    color: #00B0Ff;
+    margin-left: 5px;
+    margin-right: 10px;
+    border-radius: 10px;
+    height: 0px;
+    width: 93%;
+    text-align: center-left;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: Lucida Sans, sans-serif; 
+    font-weight: bold;
+    padding-left: 10px;
+    position: relative;
+   }
+    
+    .topup {
+    position: relative;
+    margin-left: 40%;
+    margin-bottom: 10px;
+    margin-top: -53px;  
+    background-color: white;
+    color: #00B0Ff;
+    border-radius: 15px;
+    border: 2px solid;
+    border-color: #00B0Ff;
+    float: left;
+    height: 60px;
+    width: 60px;
+    box-shadow:  1px 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+   }
+   
+    .kolom1 {
+    background-color: white;
+    border: 2px solid;
+    border-color: #00B0Ff;
+    height: 45px;
+    line-height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow:  0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    } 
+    .kolom2 {
+     font-size: 12px; 
+     float: left;
+     padding-top: 10px;
+     padding-left: 5px;
+     line-height: 0px;
+    }
+    .kolom3 { 
+     font-size: 12px;
+     padding-top: 10px;
+     float: right;
+     padding-left: 75px;
+     line-height: 0px;
+    }

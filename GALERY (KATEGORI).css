@@ -1,0 +1,57 @@
+div.scrollmenu1 {
+    margin: 10px;
+    width: 100%;
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  div.scrollmenu1 a {
+    display:inline-table;
+    color: #00B0FF;
+    text-align: center;
+    padding: 0px;
+    text-decoration: none;
+  }
+  div.scrollmenu1 a:hover {
+    background-color: white;
+  }
+  .galeri {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: white;
+    position: relative;
+    margin-top: 20px;
+    text-decoration: none;
+  }
+  .galeri a{
+    padding: 5px;
+    text-decoration: none;
+  }
+  .galeri img{
+    text-decoration: none;
+    margin: 2px;
+    height: 100px;
+    width: 45%;
+    display: inline;
+   box-shadow:  1px 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+  }
+  
+  .animasi{
+    height: 150px;
+    width: 150px;
+  }
+  
+  .animasi:hover{
+    animation: animasiAnimasi 2s ease
+  }
+  
+  @keyframes animasiAnimasi{
+  0% {
+  width: 200px; 
+  }
+  50% {
+  width: 300px; 
+  }
+  }

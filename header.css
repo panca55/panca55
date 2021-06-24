@@ -1,0 +1,81 @@
+
+body {
+    line-height: 0;
+}
+
+.header {
+  height: 52px;
+  overflow: hidden;
+  z-index: -1;
+  background-color: #00B0FF;
+  padding: 0px 0px;
+  width: 100%; 
+  position: fixed;
+  border-radius: 0px 0px 15px 15px;
+ box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+}
+
+.header a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 0px;
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 10px;
+  border-radius: 4px;
+}
+
+.header a.logo {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 5px;
+  padding-left:40px;
+  padding-top:5px;
+}
+.header a.logo1 {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.header a:hover {
+  background-color: #B3E5FC;
+  color: white;
+}
+
+.header a.active {
+  background-color: rgb(133, 191, 250);
+  color: white;
+}
+ 
+.header-right {
+  float: right;
+  font-size: 30px;
+  color: white;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  padding: 10px;
+  
+}
+
+@media screen and (max-width: 90px) {
+  .header a {
+    float: none;
+    display: flex;
+    text-align: left;
+    position: sticky;
+  }
+
+}
+
+.delify{
+  width: 70px;
+  height: 40px;
+  transition: 1s;
+}
+
+.delify:hover{
+  transform: rotate(200deg);
+}
