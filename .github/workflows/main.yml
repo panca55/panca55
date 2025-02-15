@@ -21,14 +21,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
+
       - name: Generate GitHub contribution snake graph
         uses: Platane/snk@v3.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-snake-dark.svg?palette=github-dark
-            github-snake-light.svg?palette=github-light
-            github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
+            dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
