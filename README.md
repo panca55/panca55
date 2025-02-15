@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panca55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/panca55/panca55/output/github-snake-light.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/panca55/panca55/output/github-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=panca55&theme=radical&no-frame=false&no-bg=true&margin-w=4)
