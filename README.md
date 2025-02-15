@@ -27,5 +27,5 @@
 [![](https://visitcount.itsvg.in/api?id=panca55&icon=0&color=3)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/panca55/panca55/output/github-snake-dark.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/panca55/panca55/output/github-snake-light.svg)
 
