@@ -15,6 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panca55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/panca55/panca55/output/github-snake-light.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=panca55&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -26,11 +27,3 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/pancanugraha) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/panca.nugraha.7509) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nugraha.nca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/panca-nugraha-b32867221) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16404457) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ahargunacnap) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/panca55) 
 [![](https://visitcount.itsvg.in/api?id=panca55&icon=0&color=3)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/panca55/panca55/output/github-snake-light.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://raw.githubusercontent.com/panca55/panca55/output/github-snake-dark.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/panca55/panca55/output/github-snake-light.svg)" />
-  <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/panca55/panca55/output/github-snake-dark.svg)" />
-</picture>
