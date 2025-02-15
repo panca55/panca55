@@ -29,3 +29,8 @@
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/panca55/panca55/output/github-snake-light.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
